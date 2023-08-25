@@ -1,0 +1,9 @@
+.sticky {
+    position: fixed;
+    top: 0;
+    width: 100%;
+    z-index: 10000; 
+}
+#navbar {
+    border-bottom: solid 1px rgb(212, 212, 212) ;
+}
